@@ -1,0 +1,16 @@
+C:\Users\zigma\OneDrive\Desktop\CSharp\ifai\ifai\bin\Debug\net5.0\ifai.exe
+C:\Users\zigma\OneDrive\Desktop\CSharp\ifai\ifai\bin\Debug\net5.0\ifai.deps.json
+C:\Users\zigma\OneDrive\Desktop\CSharp\ifai\ifai\bin\Debug\net5.0\ifai.runtimeconfig.json
+C:\Users\zigma\OneDrive\Desktop\CSharp\ifai\ifai\bin\Debug\net5.0\ifai.runtimeconfig.dev.json
+C:\Users\zigma\OneDrive\Desktop\CSharp\ifai\ifai\bin\Debug\net5.0\ifai.dll
+C:\Users\zigma\OneDrive\Desktop\CSharp\ifai\ifai\bin\Debug\net5.0\ref\ifai.dll
+C:\Users\zigma\OneDrive\Desktop\CSharp\ifai\ifai\bin\Debug\net5.0\ifai.pdb
+C:\Users\zigma\OneDrive\Desktop\CSharp\ifai\ifai\obj\Debug\net5.0\ifai.csproj.AssemblyReference.cache
+C:\Users\zigma\OneDrive\Desktop\CSharp\ifai\ifai\obj\Debug\net5.0\ifai.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zigma\OneDrive\Desktop\CSharp\ifai\ifai\obj\Debug\net5.0\ifai.AssemblyInfoInputs.cache
+C:\Users\zigma\OneDrive\Desktop\CSharp\ifai\ifai\obj\Debug\net5.0\ifai.AssemblyInfo.cs
+C:\Users\zigma\OneDrive\Desktop\CSharp\ifai\ifai\obj\Debug\net5.0\ifai.csproj.CoreCompileInputs.cache
+C:\Users\zigma\OneDrive\Desktop\CSharp\ifai\ifai\obj\Debug\net5.0\ifai.dll
+C:\Users\zigma\OneDrive\Desktop\CSharp\ifai\ifai\obj\Debug\net5.0\ref\ifai.dll
+C:\Users\zigma\OneDrive\Desktop\CSharp\ifai\ifai\obj\Debug\net5.0\ifai.pdb
+C:\Users\zigma\OneDrive\Desktop\CSharp\ifai\ifai\obj\Debug\net5.0\ifai.genruntimeconfig.cache

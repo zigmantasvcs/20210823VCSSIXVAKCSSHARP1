@@ -1,0 +1,16 @@
+C:\Users\zigma\OneDrive\Desktop\CSharp\Uzduotis.Is.Skaidres1\Uzduotis.Is.Skaidres1\bin\Debug\net5.0\Uzduotis.Is.Skaidres1.exe
+C:\Users\zigma\OneDrive\Desktop\CSharp\Uzduotis.Is.Skaidres1\Uzduotis.Is.Skaidres1\bin\Debug\net5.0\Uzduotis.Is.Skaidres1.deps.json
+C:\Users\zigma\OneDrive\Desktop\CSharp\Uzduotis.Is.Skaidres1\Uzduotis.Is.Skaidres1\bin\Debug\net5.0\Uzduotis.Is.Skaidres1.runtimeconfig.json
+C:\Users\zigma\OneDrive\Desktop\CSharp\Uzduotis.Is.Skaidres1\Uzduotis.Is.Skaidres1\bin\Debug\net5.0\Uzduotis.Is.Skaidres1.runtimeconfig.dev.json
+C:\Users\zigma\OneDrive\Desktop\CSharp\Uzduotis.Is.Skaidres1\Uzduotis.Is.Skaidres1\bin\Debug\net5.0\Uzduotis.Is.Skaidres1.dll
+C:\Users\zigma\OneDrive\Desktop\CSharp\Uzduotis.Is.Skaidres1\Uzduotis.Is.Skaidres1\bin\Debug\net5.0\ref\Uzduotis.Is.Skaidres1.dll
+C:\Users\zigma\OneDrive\Desktop\CSharp\Uzduotis.Is.Skaidres1\Uzduotis.Is.Skaidres1\bin\Debug\net5.0\Uzduotis.Is.Skaidres1.pdb
+C:\Users\zigma\OneDrive\Desktop\CSharp\Uzduotis.Is.Skaidres1\Uzduotis.Is.Skaidres1\obj\Debug\net5.0\Uzduotis.Is.Skaidres1.csproj.AssemblyReference.cache
+C:\Users\zigma\OneDrive\Desktop\CSharp\Uzduotis.Is.Skaidres1\Uzduotis.Is.Skaidres1\obj\Debug\net5.0\Uzduotis.Is.Skaidres1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zigma\OneDrive\Desktop\CSharp\Uzduotis.Is.Skaidres1\Uzduotis.Is.Skaidres1\obj\Debug\net5.0\Uzduotis.Is.Skaidres1.AssemblyInfoInputs.cache
+C:\Users\zigma\OneDrive\Desktop\CSharp\Uzduotis.Is.Skaidres1\Uzduotis.Is.Skaidres1\obj\Debug\net5.0\Uzduotis.Is.Skaidres1.AssemblyInfo.cs
+C:\Users\zigma\OneDrive\Desktop\CSharp\Uzduotis.Is.Skaidres1\Uzduotis.Is.Skaidres1\obj\Debug\net5.0\Uzduotis.Is.Skaidres1.csproj.CoreCompileInputs.cache
+C:\Users\zigma\OneDrive\Desktop\CSharp\Uzduotis.Is.Skaidres1\Uzduotis.Is.Skaidres1\obj\Debug\net5.0\Uzduotis.Is.Skaidres1.dll
+C:\Users\zigma\OneDrive\Desktop\CSharp\Uzduotis.Is.Skaidres1\Uzduotis.Is.Skaidres1\obj\Debug\net5.0\ref\Uzduotis.Is.Skaidres1.dll
+C:\Users\zigma\OneDrive\Desktop\CSharp\Uzduotis.Is.Skaidres1\Uzduotis.Is.Skaidres1\obj\Debug\net5.0\Uzduotis.Is.Skaidres1.pdb
+C:\Users\zigma\OneDrive\Desktop\CSharp\Uzduotis.Is.Skaidres1\Uzduotis.Is.Skaidres1\obj\Debug\net5.0\Uzduotis.Is.Skaidres1.genruntimeconfig.cache
