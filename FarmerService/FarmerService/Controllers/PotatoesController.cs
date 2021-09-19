@@ -1,9 +1,5 @@
-﻿using Microsoft.AspNetCore.Http;
-using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Mvc;
 using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
 
 namespace FarmerService.Controllers
 {
@@ -11,6 +7,12 @@ namespace FarmerService.Controllers
 	[ApiController]
 	public class PotatoesController : ControllerBase
 	{
+		/// <summary>
+		/// Suskaičiuoja kiek iš viso buvo parduota, vidurkį 
+		/// ir kiek ūkininkų kurie pardavė daugiau nei 50 kilogramų
+		/// </summary>
+		/// <param name="potatoes"></param>
+		/// <returns></returns>
 		[HttpPost]
 		public IActionResult CalculateResults(int[] potatoes)
 		{
