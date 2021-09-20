@@ -1,0 +1,16 @@
+C:\Users\zigma\OneDrive\Desktop\CSharp\Homework\uzduotis.1.2\uzduotis.1.2\bin\Debug\net5.0\uzduotis.1.2.exe
+C:\Users\zigma\OneDrive\Desktop\CSharp\Homework\uzduotis.1.2\uzduotis.1.2\bin\Debug\net5.0\uzduotis.1.2.deps.json
+C:\Users\zigma\OneDrive\Desktop\CSharp\Homework\uzduotis.1.2\uzduotis.1.2\bin\Debug\net5.0\uzduotis.1.2.runtimeconfig.json
+C:\Users\zigma\OneDrive\Desktop\CSharp\Homework\uzduotis.1.2\uzduotis.1.2\bin\Debug\net5.0\uzduotis.1.2.runtimeconfig.dev.json
+C:\Users\zigma\OneDrive\Desktop\CSharp\Homework\uzduotis.1.2\uzduotis.1.2\bin\Debug\net5.0\uzduotis.1.2.dll
+C:\Users\zigma\OneDrive\Desktop\CSharp\Homework\uzduotis.1.2\uzduotis.1.2\bin\Debug\net5.0\ref\uzduotis.1.2.dll
+C:\Users\zigma\OneDrive\Desktop\CSharp\Homework\uzduotis.1.2\uzduotis.1.2\bin\Debug\net5.0\uzduotis.1.2.pdb
+C:\Users\zigma\OneDrive\Desktop\CSharp\Homework\uzduotis.1.2\uzduotis.1.2\obj\Debug\net5.0\uzduotis.1.2.csproj.AssemblyReference.cache
+C:\Users\zigma\OneDrive\Desktop\CSharp\Homework\uzduotis.1.2\uzduotis.1.2\obj\Debug\net5.0\uzduotis.1.2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zigma\OneDrive\Desktop\CSharp\Homework\uzduotis.1.2\uzduotis.1.2\obj\Debug\net5.0\uzduotis.1.2.AssemblyInfoInputs.cache
+C:\Users\zigma\OneDrive\Desktop\CSharp\Homework\uzduotis.1.2\uzduotis.1.2\obj\Debug\net5.0\uzduotis.1.2.AssemblyInfo.cs
+C:\Users\zigma\OneDrive\Desktop\CSharp\Homework\uzduotis.1.2\uzduotis.1.2\obj\Debug\net5.0\uzduotis.1.2.csproj.CoreCompileInputs.cache
+C:\Users\zigma\OneDrive\Desktop\CSharp\Homework\uzduotis.1.2\uzduotis.1.2\obj\Debug\net5.0\uzduotis.1.2.dll
+C:\Users\zigma\OneDrive\Desktop\CSharp\Homework\uzduotis.1.2\uzduotis.1.2\obj\Debug\net5.0\ref\uzduotis.1.2.dll
+C:\Users\zigma\OneDrive\Desktop\CSharp\Homework\uzduotis.1.2\uzduotis.1.2\obj\Debug\net5.0\uzduotis.1.2.pdb
+C:\Users\zigma\OneDrive\Desktop\CSharp\Homework\uzduotis.1.2\uzduotis.1.2\obj\Debug\net5.0\uzduotis.1.2.genruntimeconfig.cache
