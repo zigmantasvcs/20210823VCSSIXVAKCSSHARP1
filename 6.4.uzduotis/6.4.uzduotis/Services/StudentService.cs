@@ -1,4 +1,6 @@
 ﻿using _6._4.uzduotis.Models;
+using Microsoft.Extensions.Configuration;
+using MySqlConnector;
 using System;
 using System.Collections.Generic;
 
@@ -6,56 +8,48 @@ namespace _6._4.uzduotis.Services
 {
 	public class StudentService
 	{
+		private string _connection;
+
+		public StudentService()
+		{
+			IConfiguration config = new ConfigurationBuilder()
+				.AddJsonFile("appsettings.json", optional: false, reloadOnChange: false)
+				.Build();
+
+			_connection = config.GetValue<string>("ConnectionStrings:DefaultConnection");
+
+		}
+
 		public List<Student> GetStudents()
 		{
-			var students = new List<Student>();
+			MySqlConnection conn = new MySqlConnection(_connection);
 
-			students.Add(
-				new Student(
-					"Jonas", 
-					"Jonaitis", 
-					new DateTime(2000, 1, 1), 
-					"abb123"
-				)
-			);
+			conn.Open();
 
-			students.Add(
-				new Student(
-					"Onutė",
-					"Pakalnutė",
-					new DateTime(2001, 1, 1),
-					"abb124"
-				)
-			);
+			using(var cmd = conn.CreateCommand())
+			{
+				cmd.CommandText = "SELECT documentId, name, surname, birthDay FROM students";
 
-			students.Add(
-				new Student(
-					"Petras",
-					"Petraitis",
-					new DateTime(1999, 1, 1),
-					"abb125"
-				)
-			);
+				var reader = cmd.ExecuteReader(); // tas pats kas paspausti go
 
-			students.Add(
-				new Student(
-					"Barbora",
-					"Bora",
-					new DateTime(1999, 10, 1),
-					"abb126"
-				)
-			);
+				using (reader)
+				{
+					while (reader.Read())
+					{
+						var student = new Student(
+							reader.GetString(1),
+							reader.GetString(2),
+							reader.GetDateTime(3),
+							reader.GetString(0)
+						);
+					}
+				}
 
-			students.Add(
-				new Student(
-					"Greta",
-					"Gerietė",
-					new DateTime(1999, 11, 1),
-					"abb126"
-				)
-			);
+			}
 
-			return students;
+			return null;
 		}
+
+
 	}
 }

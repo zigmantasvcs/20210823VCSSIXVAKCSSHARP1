@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "M9zgVlhkxeFb8mcP9A1uTiKIFsYGSHOAGFnWLheMmv1wcTR7gotYTU7QkCk5RdtBmcXPQbMwdzjac3qWvUbw8w==",
+  "dgSpecHash": "fNeirJL5Ix7OTXHhZhGSu2OQcTnn6wISBpflmGqE/I623CzQYMp9lCIZK93QRKSK23rXFt5C2cXWt+ICxhTm3Q==",
   "success": true,
   "projectFilePath": "C:\\Users\\zigma\\OneDrive\\Desktop\\CSharp\\6.4.uzduotis\\6.4.uzduotis\\6.4.uzduotis.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\zigma\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\zigma\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\zigma\\.nuget\\packages\\mysqlconnector\\1.3.12\\mysqlconnector.1.3.12.nupkg.sha512",
     "C:\\Users\\zigma\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
     "C:\\Users\\zigma\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
     "C:\\Users\\zigma\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",

@@ -27,3 +27,4 @@ C:\Users\zigma\OneDrive\Desktop\CSharp\6.4.uzduotis\6.4.uzduotis\obj\Debug\net5.
 C:\Users\zigma\OneDrive\Desktop\CSharp\6.4.uzduotis\6.4.uzduotis\obj\Debug\net5.0\ref\6.4.uzduotis.dll
 C:\Users\zigma\OneDrive\Desktop\CSharp\6.4.uzduotis\6.4.uzduotis\obj\Debug\net5.0\6.4.uzduotis.pdb
 C:\Users\zigma\OneDrive\Desktop\CSharp\6.4.uzduotis\6.4.uzduotis\obj\Debug\net5.0\6.4.uzduotis.genruntimeconfig.cache
+C:\Users\zigma\OneDrive\Desktop\CSharp\6.4.uzduotis\6.4.uzduotis\bin\Debug\net5.0\MySqlConnector.dll
