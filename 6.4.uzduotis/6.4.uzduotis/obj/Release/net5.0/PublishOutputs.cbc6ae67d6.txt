@@ -1,0 +1,12 @@
+C:\Users\zigma\OneDrive\Desktop\CSharp\6.4.uzduotis\6.4.uzduotis\obj\Release\net5.0\PubTmp\Out\6.4.uzduotis.exe
+C:\Users\zigma\OneDrive\Desktop\CSharp\6.4.uzduotis\6.4.uzduotis\obj\Release\net5.0\PubTmp\Out\appsettings.Development.json
+C:\Users\zigma\OneDrive\Desktop\CSharp\6.4.uzduotis\6.4.uzduotis\obj\Release\net5.0\PubTmp\Out\appsettings.json
+C:\Users\zigma\OneDrive\Desktop\CSharp\6.4.uzduotis\6.4.uzduotis\obj\Release\net5.0\PubTmp\Out\6.4.uzduotis.dll
+C:\Users\zigma\OneDrive\Desktop\CSharp\6.4.uzduotis\6.4.uzduotis\obj\Release\net5.0\PubTmp\Out\6.4.uzduotis.deps.json
+C:\Users\zigma\OneDrive\Desktop\CSharp\6.4.uzduotis\6.4.uzduotis\obj\Release\net5.0\PubTmp\Out\6.4.uzduotis.runtimeconfig.json
+C:\Users\zigma\OneDrive\Desktop\CSharp\6.4.uzduotis\6.4.uzduotis\obj\Release\net5.0\PubTmp\Out\6.4.uzduotis.pdb
+C:\Users\zigma\OneDrive\Desktop\CSharp\6.4.uzduotis\6.4.uzduotis\obj\Release\net5.0\PubTmp\Out\Microsoft.OpenApi.dll
+C:\Users\zigma\OneDrive\Desktop\CSharp\6.4.uzduotis\6.4.uzduotis\obj\Release\net5.0\PubTmp\Out\MySqlConnector.dll
+C:\Users\zigma\OneDrive\Desktop\CSharp\6.4.uzduotis\6.4.uzduotis\obj\Release\net5.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\zigma\OneDrive\Desktop\CSharp\6.4.uzduotis\6.4.uzduotis\obj\Release\net5.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\zigma\OneDrive\Desktop\CSharp\6.4.uzduotis\6.4.uzduotis\obj\Release\net5.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll

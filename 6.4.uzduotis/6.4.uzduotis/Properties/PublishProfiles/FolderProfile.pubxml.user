@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\Users\zigma\OneDrive\Desktop\CSharp\6.4.uzduotis\6.4.uzduotis\bin\Release\net5.0\publish\api</_PublishTargetUrl>
+    <History>True|2021-09-26T15:12:37.8103191Z;True|2021-09-26T18:05:56.0531788+03:00;True|2021-09-26T18:01:33.1807020+03:00;True|2021-09-26T17:58:14.9862400+03:00;True|2021-09-26T17:56:43.2104639+03:00;True|2021-09-26T17:43:37.5638989+03:00;True|2021-09-26T17:08:54.1968038+03:00;True|2021-09-26T17:03:56.4673730+03:00;True|2021-09-26T17:00:26.6590168+03:00;True|2021-09-26T16:53:57.0393014+03:00;True|2021-09-26T16:37:27.0805487+03:00;True|2021-09-26T16:03:17.5215371+03:00;</History>
+  </PropertyGroup>
+</Project>

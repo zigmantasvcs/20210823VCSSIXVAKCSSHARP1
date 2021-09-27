@@ -1,0 +1,16 @@
+C:\Users\zigma\OneDrive\Desktop\CSharp\uzduotis2.3\uzduotis2.3\bin\Debug\net5.0\uzduotis2.3.exe
+C:\Users\zigma\OneDrive\Desktop\CSharp\uzduotis2.3\uzduotis2.3\bin\Debug\net5.0\uzduotis2.3.deps.json
+C:\Users\zigma\OneDrive\Desktop\CSharp\uzduotis2.3\uzduotis2.3\bin\Debug\net5.0\uzduotis2.3.runtimeconfig.json
+C:\Users\zigma\OneDrive\Desktop\CSharp\uzduotis2.3\uzduotis2.3\bin\Debug\net5.0\uzduotis2.3.runtimeconfig.dev.json
+C:\Users\zigma\OneDrive\Desktop\CSharp\uzduotis2.3\uzduotis2.3\bin\Debug\net5.0\uzduotis2.3.dll
+C:\Users\zigma\OneDrive\Desktop\CSharp\uzduotis2.3\uzduotis2.3\bin\Debug\net5.0\ref\uzduotis2.3.dll
+C:\Users\zigma\OneDrive\Desktop\CSharp\uzduotis2.3\uzduotis2.3\bin\Debug\net5.0\uzduotis2.3.pdb
+C:\Users\zigma\OneDrive\Desktop\CSharp\uzduotis2.3\uzduotis2.3\obj\Debug\net5.0\uzduotis2.3.csproj.AssemblyReference.cache
+C:\Users\zigma\OneDrive\Desktop\CSharp\uzduotis2.3\uzduotis2.3\obj\Debug\net5.0\uzduotis2.3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zigma\OneDrive\Desktop\CSharp\uzduotis2.3\uzduotis2.3\obj\Debug\net5.0\uzduotis2.3.AssemblyInfoInputs.cache
+C:\Users\zigma\OneDrive\Desktop\CSharp\uzduotis2.3\uzduotis2.3\obj\Debug\net5.0\uzduotis2.3.AssemblyInfo.cs
+C:\Users\zigma\OneDrive\Desktop\CSharp\uzduotis2.3\uzduotis2.3\obj\Debug\net5.0\uzduotis2.3.csproj.CoreCompileInputs.cache
+C:\Users\zigma\OneDrive\Desktop\CSharp\uzduotis2.3\uzduotis2.3\obj\Debug\net5.0\uzduotis2.3.dll
+C:\Users\zigma\OneDrive\Desktop\CSharp\uzduotis2.3\uzduotis2.3\obj\Debug\net5.0\ref\uzduotis2.3.dll
+C:\Users\zigma\OneDrive\Desktop\CSharp\uzduotis2.3\uzduotis2.3\obj\Debug\net5.0\uzduotis2.3.pdb
+C:\Users\zigma\OneDrive\Desktop\CSharp\uzduotis2.3\uzduotis2.3\obj\Debug\net5.0\uzduotis2.3.genruntimeconfig.cache

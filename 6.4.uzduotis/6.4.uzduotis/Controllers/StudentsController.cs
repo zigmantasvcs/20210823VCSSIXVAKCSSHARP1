@@ -43,6 +43,10 @@ namespace _6._4.uzduotis.Controllers
 				return ValidationProblem("Nenurodėte Gimimo datos!");
 			}
 
+			var service = new StudentService();
+
+			service.CreateStudent(student);
+
 			return Ok();
 		}
 
@@ -61,17 +65,9 @@ namespace _6._4.uzduotis.Controllers
 		{
 			var service = new StudentService();
 
-			var students = service.GetStudents();
+			var student = service.GetStudent(documentId);
 
-			foreach(var student in students)
-			{
-				if(student.DocumentId == documentId)
-				{
-					return new OkObjectResult(student);
-				}
-			}
-
-			return NotFound();
+			return new OkObjectResult(student);
 		}
 
 		[HttpGet("filter")]
