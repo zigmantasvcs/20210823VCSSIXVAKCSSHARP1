@@ -1,0 +1,29 @@
+C:\Users\zigma\OneDrive\Desktop\CSharp\Homework\uzduotis3.1.antras dublis\uzduotis3.1.antras dublis\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\zigma\OneDrive\Desktop\CSharp\Homework\uzduotis3.1.antras dublis\uzduotis3.1.antras dublis\bin\Debug\net5.0\appsettings.json
+C:\Users\zigma\OneDrive\Desktop\CSharp\Homework\uzduotis3.1.antras dublis\uzduotis3.1.antras dublis\bin\Debug\net5.0\uzduotis3.1.antras dublis.exe
+C:\Users\zigma\OneDrive\Desktop\CSharp\Homework\uzduotis3.1.antras dublis\uzduotis3.1.antras dublis\bin\Debug\net5.0\uzduotis3.1.antras dublis.deps.json
+C:\Users\zigma\OneDrive\Desktop\CSharp\Homework\uzduotis3.1.antras dublis\uzduotis3.1.antras dublis\bin\Debug\net5.0\uzduotis3.1.antras dublis.runtimeconfig.json
+C:\Users\zigma\OneDrive\Desktop\CSharp\Homework\uzduotis3.1.antras dublis\uzduotis3.1.antras dublis\bin\Debug\net5.0\uzduotis3.1.antras dublis.runtimeconfig.dev.json
+C:\Users\zigma\OneDrive\Desktop\CSharp\Homework\uzduotis3.1.antras dublis\uzduotis3.1.antras dublis\bin\Debug\net5.0\uzduotis3.1.antras dublis.dll
+C:\Users\zigma\OneDrive\Desktop\CSharp\Homework\uzduotis3.1.antras dublis\uzduotis3.1.antras dublis\bin\Debug\net5.0\ref\uzduotis3.1.antras dublis.dll
+C:\Users\zigma\OneDrive\Desktop\CSharp\Homework\uzduotis3.1.antras dublis\uzduotis3.1.antras dublis\bin\Debug\net5.0\uzduotis3.1.antras dublis.pdb
+C:\Users\zigma\OneDrive\Desktop\CSharp\Homework\uzduotis3.1.antras dublis\uzduotis3.1.antras dublis\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\zigma\OneDrive\Desktop\CSharp\Homework\uzduotis3.1.antras dublis\uzduotis3.1.antras dublis\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\zigma\OneDrive\Desktop\CSharp\Homework\uzduotis3.1.antras dublis\uzduotis3.1.antras dublis\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\zigma\OneDrive\Desktop\CSharp\Homework\uzduotis3.1.antras dublis\uzduotis3.1.antras dublis\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\zigma\OneDrive\Desktop\CSharp\Homework\uzduotis3.1.antras dublis\uzduotis3.1.antras dublis\obj\Debug\net5.0\uzduotis3.1.antras dublis.csproj.AssemblyReference.cache
+C:\Users\zigma\OneDrive\Desktop\CSharp\Homework\uzduotis3.1.antras dublis\uzduotis3.1.antras dublis\obj\Debug\net5.0\uzduotis3.1.antras dublis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zigma\OneDrive\Desktop\CSharp\Homework\uzduotis3.1.antras dublis\uzduotis3.1.antras dublis\obj\Debug\net5.0\uzduotis3.1.antras dublis.AssemblyInfoInputs.cache
+C:\Users\zigma\OneDrive\Desktop\CSharp\Homework\uzduotis3.1.antras dublis\uzduotis3.1.antras dublis\obj\Debug\net5.0\uzduotis3.1.antras dublis.AssemblyInfo.cs
+C:\Users\zigma\OneDrive\Desktop\CSharp\Homework\uzduotis3.1.antras dublis\uzduotis3.1.antras dublis\obj\Debug\net5.0\uzduotis3.1.antras dublis.csproj.CoreCompileInputs.cache
+C:\Users\zigma\OneDrive\Desktop\CSharp\Homework\uzduotis3.1.antras dublis\uzduotis3.1.antras dublis\obj\Debug\net5.0\uzduotis3.1.antras dublis.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\zigma\OneDrive\Desktop\CSharp\Homework\uzduotis3.1.antras dublis\uzduotis3.1.antras dublis\obj\Debug\net5.0\uzduotis3.1.antras dublis.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\zigma\OneDrive\Desktop\CSharp\Homework\uzduotis3.1.antras dublis\uzduotis3.1.antras dublis\obj\Debug\net5.0\staticwebassets\uzduotis3.1.antras dublis.StaticWebAssets.Manifest.cache
+C:\Users\zigma\OneDrive\Desktop\CSharp\Homework\uzduotis3.1.antras dublis\uzduotis3.1.antras dublis\obj\Debug\net5.0\staticwebassets\uzduotis3.1.antras dublis.StaticWebAssets.xml
+C:\Users\zigma\OneDrive\Desktop\CSharp\Homework\uzduotis3.1.antras dublis\uzduotis3.1.antras dublis\obj\Debug\net5.0\scopedcss\bundle\uzduotis3.1.antras dublis.styles.css
+C:\Users\zigma\OneDrive\Desktop\CSharp\Homework\uzduotis3.1.antras dublis\uzduotis3.1.antras dublis\obj\Debug\net5.0\uzduotis3.1.antras dublis.RazorTargetAssemblyInfo.cache
+C:\Users\zigma\OneDrive\Desktop\CSharp\Homework\uzduotis3.1.antras dublis\uzduotis3.1.antras dublis\obj\Debug\net5.0\uzduotis3.1.antras dublis.csproj.CopyComplete
+C:\Users\zigma\OneDrive\Desktop\CSharp\Homework\uzduotis3.1.antras dublis\uzduotis3.1.antras dublis\obj\Debug\net5.0\uzduotis3.1.antras dublis.dll
+C:\Users\zigma\OneDrive\Desktop\CSharp\Homework\uzduotis3.1.antras dublis\uzduotis3.1.antras dublis\obj\Debug\net5.0\ref\uzduotis3.1.antras dublis.dll
+C:\Users\zigma\OneDrive\Desktop\CSharp\Homework\uzduotis3.1.antras dublis\uzduotis3.1.antras dublis\obj\Debug\net5.0\uzduotis3.1.antras dublis.pdb
+C:\Users\zigma\OneDrive\Desktop\CSharp\Homework\uzduotis3.1.antras dublis\uzduotis3.1.antras dublis\obj\Debug\net5.0\uzduotis3.1.antras dublis.genruntimeconfig.cache
