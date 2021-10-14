@@ -1,7 +1,6 @@
 ﻿using _6._4.uzduotis.Models;
 using Microsoft.Extensions.Configuration;
 using MySqlConnector;
-using System;
 using System.Collections.Generic;
 
 namespace _6._4.uzduotis.Services
@@ -30,7 +29,7 @@ namespace _6._4.uzduotis.Services
 
 			using (var cmd = conn.CreateCommand())
 			{
-				cmd.CommandText = "SELECT documentId, name, surname, birthDay FROM students";
+				cmd.CommandText = "SELECT documentId, name, surname, birthDay, photo FROM students";
 
 				var reader = cmd.ExecuteReader(); // tas pats kas paspausti go
 				
@@ -42,7 +41,8 @@ namespace _6._4.uzduotis.Services
 							reader.GetString(1),
 							reader.GetString(2),
 							reader.GetDateTime(3),
-							reader.GetString(0)
+							reader.GetString(0),
+							reader.GetString(4)
 						);
 
 						students.Add(student);
@@ -61,7 +61,7 @@ namespace _6._4.uzduotis.Services
 
 			using(var cmd = conn.CreateCommand())
 			{
-				cmd.CommandText = "SELECT documentId, name, surname, birthDay FROM students WHERE documentId = @documentId";
+				cmd.CommandText = "SELECT documentId, name, surname, birthDay, photo FROM students WHERE documentId = @documentId";
 
 				cmd.Parameters.Add(
 					new MySqlParameter()
@@ -82,7 +82,8 @@ namespace _6._4.uzduotis.Services
 						reader.GetString(1),
 						reader.GetString(2),
 						reader.GetDateTime(3),
-						reader.GetString(0)
+						reader.GetString(0),
+						reader.GetString(4)
 					);
 				}
 			}
@@ -96,8 +97,8 @@ namespace _6._4.uzduotis.Services
 
 			using(var cmd = conn.CreateCommand())
 			{
-				cmd.CommandText = "INSERT INTO students (documentId, name, surname, birthDay) " +
-					"VALUES(@documentId, @name, @surname, @birthDay)";
+				cmd.CommandText = "INSERT INTO students (documentId, name, surname, birthDay, photo) " +
+					"VALUES(@documentId, @name, @surname, @birthDay, @photo)";
 
 				cmd.Parameters.Add(
 					new MySqlParameter()
@@ -132,6 +133,15 @@ namespace _6._4.uzduotis.Services
 						ParameterName = "@birthDay",
 						DbType = System.Data.DbType.DateTime,
 						Value = student.BirthDay
+					}
+				);
+
+				cmd.Parameters.Add(
+					new MySqlParameter()
+					{
+						ParameterName = "@photo",
+						DbType = System.Data.DbType.String,
+						Value = student.Photo
 					}
 				);
 
